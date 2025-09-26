@@ -1,4 +1,12 @@
 body {
-    font-family: sans-serif;
-    text-align: center;
+    background-color: #ffffff;
+}
+.dropdown-menu {
+    background-color: #ebe17a;
+}
+.carousel {
+    background-color: #f2463d
+}
+.carousel-item img {
+    margin: auto;
 }
